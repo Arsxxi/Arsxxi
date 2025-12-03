@@ -45,7 +45,7 @@ Loves turning ideas into functional, aesthetic digital products
 
 <div align="center">
 
- adad
+
 </div>
 
 
